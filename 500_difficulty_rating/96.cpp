@@ -40,7 +40,7 @@ int main() {
     int t;
     cin >> t;
     while (t--) {
-        int x, sum = 0;
+        int x;
         cin >> x;
 
         int ld = x % 10;
